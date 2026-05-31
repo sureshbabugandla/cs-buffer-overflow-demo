@@ -1,4 +1,4 @@
-# Buffer Overflow Lab
+# Buffer Overflow <Server>
 
 
 We built four small vulnerable TCP servers in C to show different things that
